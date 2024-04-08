@@ -1,0 +1,12 @@
+C:\Users\YUHAN\Desktop\202127070\0401Project2\bin\Debug\0401Project2.exe.config
+C:\Users\YUHAN\Desktop\202127070\0401Project2\bin\Debug\0401Project2.exe
+C:\Users\YUHAN\Desktop\202127070\0401Project2\bin\Debug\0401Project2.pdb
+C:\Users\YUHAN\Desktop\202127070\0401Project2\bin\Debug\Nakov.TurtleGraphics.dll
+C:\Users\YUHAN\Desktop\202127070\0401Project2\obj\Debug\0401Project2.csproj.AssemblyReference.cache
+C:\Users\YUHAN\Desktop\202127070\0401Project2\obj\Debug\_0401Project2.Form1.resources
+C:\Users\YUHAN\Desktop\202127070\0401Project2\obj\Debug\_0401Project2.Properties.Resources.resources
+C:\Users\YUHAN\Desktop\202127070\0401Project2\obj\Debug\0401Project2.csproj.GenerateResource.cache
+C:\Users\YUHAN\Desktop\202127070\0401Project2\obj\Debug\0401Project2.csproj.CoreCompileInputs.cache
+C:\Users\YUHAN\Desktop\202127070\0401Project2\obj\Debug\0401Proj.D6602758.Up2Date
+C:\Users\YUHAN\Desktop\202127070\0401Project2\obj\Debug\0401Project2.exe
+C:\Users\YUHAN\Desktop\202127070\0401Project2\obj\Debug\0401Project2.pdb

@@ -1,0 +1,10 @@
+C:\Users\YUHAN\Desktop\202127070\HomeWokr1\HomeWokr1\bin\Debug\HomeWokr1.exe.config
+C:\Users\YUHAN\Desktop\202127070\HomeWokr1\HomeWokr1\bin\Debug\HomeWokr1.exe
+C:\Users\YUHAN\Desktop\202127070\HomeWokr1\HomeWokr1\bin\Debug\HomeWokr1.pdb
+C:\Users\YUHAN\Desktop\202127070\HomeWokr1\HomeWokr1\obj\Debug\HomeWokr1.csproj.AssemblyReference.cache
+C:\Users\YUHAN\Desktop\202127070\HomeWokr1\HomeWokr1\obj\Debug\HomeWokr1.Form1.resources
+C:\Users\YUHAN\Desktop\202127070\HomeWokr1\HomeWokr1\obj\Debug\HomeWokr1.Properties.Resources.resources
+C:\Users\YUHAN\Desktop\202127070\HomeWokr1\HomeWokr1\obj\Debug\HomeWokr1.csproj.GenerateResource.cache
+C:\Users\YUHAN\Desktop\202127070\HomeWokr1\HomeWokr1\obj\Debug\HomeWokr1.csproj.CoreCompileInputs.cache
+C:\Users\YUHAN\Desktop\202127070\HomeWokr1\HomeWokr1\obj\Debug\HomeWokr1.exe
+C:\Users\YUHAN\Desktop\202127070\HomeWokr1\HomeWokr1\obj\Debug\HomeWokr1.pdb

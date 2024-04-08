@@ -1,0 +1,12 @@
+C:\Users\YUHAN\Desktop\202127070\HomeWork0401\bin\Debug\HomeWork0401.exe.config
+C:\Users\YUHAN\Desktop\202127070\HomeWork0401\bin\Debug\HomeWork0401.exe
+C:\Users\YUHAN\Desktop\202127070\HomeWork0401\bin\Debug\HomeWork0401.pdb
+C:\Users\YUHAN\Desktop\202127070\HomeWork0401\bin\Debug\Nakov.TurtleGraphics.dll
+C:\Users\YUHAN\Desktop\202127070\HomeWork0401\obj\Debug\HomeWork0401.csproj.AssemblyReference.cache
+C:\Users\YUHAN\Desktop\202127070\HomeWork0401\obj\Debug\HomeWork0401.Form1.resources
+C:\Users\YUHAN\Desktop\202127070\HomeWork0401\obj\Debug\HomeWork0401.Properties.Resources.resources
+C:\Users\YUHAN\Desktop\202127070\HomeWork0401\obj\Debug\HomeWork0401.csproj.GenerateResource.cache
+C:\Users\YUHAN\Desktop\202127070\HomeWork0401\obj\Debug\HomeWork0401.csproj.CoreCompileInputs.cache
+C:\Users\YUHAN\Desktop\202127070\HomeWork0401\obj\Debug\HomeWork.44FD6C13.Up2Date
+C:\Users\YUHAN\Desktop\202127070\HomeWork0401\obj\Debug\HomeWork0401.exe
+C:\Users\YUHAN\Desktop\202127070\HomeWork0401\obj\Debug\HomeWork0401.pdb

@@ -1,0 +1,10 @@
+C:\Users\one\Desktop\C#Programming\6주차\HomeWork2\bin\Debug\HomeWork2.exe.config
+C:\Users\one\Desktop\C#Programming\6주차\HomeWork2\bin\Debug\HomeWork2.exe
+C:\Users\one\Desktop\C#Programming\6주차\HomeWork2\bin\Debug\HomeWork2.pdb
+C:\Users\one\Desktop\C#Programming\6주차\HomeWork2\obj\Debug\HomeWork2.csproj.AssemblyReference.cache
+C:\Users\one\Desktop\C#Programming\6주차\HomeWork2\obj\Debug\HomeWork2.Form1.resources
+C:\Users\one\Desktop\C#Programming\6주차\HomeWork2\obj\Debug\HomeWork2.Properties.Resources.resources
+C:\Users\one\Desktop\C#Programming\6주차\HomeWork2\obj\Debug\HomeWork2.csproj.GenerateResource.cache
+C:\Users\one\Desktop\C#Programming\6주차\HomeWork2\obj\Debug\HomeWork2.csproj.CoreCompileInputs.cache
+C:\Users\one\Desktop\C#Programming\6주차\HomeWork2\obj\Debug\HomeWork2.exe
+C:\Users\one\Desktop\C#Programming\6주차\HomeWork2\obj\Debug\HomeWork2.pdb

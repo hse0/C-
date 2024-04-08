@@ -1,0 +1,46 @@
+C:\CookC#\Exam01\bin\Debug\Exam01.exe.config
+C:\CookC#\Exam01\bin\Debug\Exam01.exe
+C:\CookC#\Exam01\bin\Debug\Exam01.pdb
+C:\CookC#\Exam01\obj\Debug\Exam01.csproj.AssemblyReference.cache
+C:\CookC#\Exam01\obj\Debug\Exam01.csproj.SuggestedBindingRedirects.cache
+C:\CookC#\Exam01\obj\Debug\Exam01.csproj.CoreCompileInputs.cache
+C:\CookC#\Exam01\obj\Debug\Exam01.exe
+C:\CookC#\Exam01\obj\Debug\Exam01.pdb
+D:\2023-2\4\source\source (19)\CookC#\Exam01\bin\Debug\Exam01.exe.config
+D:\2023-2\4\source\source (19)\CookC#\Exam01\bin\Debug\Exam01.exe
+D:\2023-2\4\source\source (19)\CookC#\Exam01\bin\Debug\Exam01.pdb
+D:\2023-2\4\source\source (19)\CookC#\Exam01\obj\Debug\Exam01.csproj.AssemblyReference.cache
+D:\2023-2\4\source\source (19)\CookC#\Exam01\obj\Debug\Exam01.csproj.SuggestedBindingRedirects.cache
+D:\2023-2\4\source\source (19)\CookC#\Exam01\obj\Debug\Exam01.csproj.CoreCompileInputs.cache
+D:\2023-2\4\source\source (19)\CookC#\Exam01\obj\Debug\Exam01.exe
+D:\2023-2\4\source\source (19)\CookC#\Exam01\obj\Debug\Exam01.pdb
+E:\2023-1\4\week1\1-1\bin\Debug\Exam01.exe.config
+E:\2023-1\4\week1\1-1\bin\Debug\Exam01.exe
+E:\2023-1\4\week1\1-1\bin\Debug\Exam01.pdb
+E:\2023-1\4\week1\1-1\obj\Debug\Exam01.csproj.AssemblyReference.cache
+E:\2023-1\4\week1\1-1\obj\Debug\Exam01.csproj.SuggestedBindingRedirects.cache
+E:\2023-1\4\week1\1-1\obj\Debug\Exam01.csproj.CoreCompileInputs.cache
+E:\2023-1\4\week1\1-1\obj\Debug\Exam01.exe
+E:\2023-1\4\week1\1-1\obj\Debug\Exam01.pdb
+C:\Users\USER\Documents\4\week1\1-1\bin\Debug\Exam01.exe.config
+C:\Users\USER\Documents\4\week1\1-1\bin\Debug\Exam01.exe
+C:\Users\USER\Documents\4\week1\1-1\bin\Debug\Exam01.pdb
+C:\Users\USER\Documents\4\week1\1-1\obj\Debug\Exam01.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\4\week1\1-1\obj\Debug\Exam01.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\4\week1\1-1\obj\Debug\Exam01.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\4\week1\1-1\obj\Debug\Exam01.exe
+C:\Users\USER\Documents\4\week1\1-1\obj\Debug\Exam01.pdb
+F:\2024-1\1\week1\1-1\obj\Debug\Exam01.exe
+F:\2024-1\1\week1\1-1\obj\Debug\Exam01.pdb
+F:\2024-1\1\week1\1-1\obj\Debug\Exam01.csproj.AssemblyReference.cache
+F:\2024-1\1\week1\1-1\obj\Debug\Exam01.csproj.CoreCompileInputs.cache
+F:\2024-1\1\week1\1-1\bin\Debug\Exam01.exe.config
+F:\2024-1\1\week1\1-1\bin\Debug\Exam01.exe
+F:\2024-1\1\week1\1-1\bin\Debug\Exam01.pdb
+C:\Users\one\Desktop\C#응용\1주차\1-1\bin\Debug\Exam01.exe.config
+C:\Users\one\Desktop\C#응용\1주차\1-1\bin\Debug\Exam01.exe
+C:\Users\one\Desktop\C#응용\1주차\1-1\bin\Debug\Exam01.pdb
+C:\Users\one\Desktop\C#응용\1주차\1-1\obj\Debug\Exam01.csproj.AssemblyReference.cache
+C:\Users\one\Desktop\C#응용\1주차\1-1\obj\Debug\Exam01.csproj.CoreCompileInputs.cache
+C:\Users\one\Desktop\C#응용\1주차\1-1\obj\Debug\Exam01.exe
+C:\Users\one\Desktop\C#응용\1주차\1-1\obj\Debug\Exam01.pdb
